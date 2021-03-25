@@ -1,0 +1,27 @@
+{
+  "name": "coderx",
+  "version": "1.0.0",
+  "description": "nodejs express pug nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBuma/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "pug"
+  ],
+  "author": "buma hun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBuma/nodejs/issues"
+  },
+  "homepage": "https://github.com/MrBuma/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
